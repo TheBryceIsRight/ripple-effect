@@ -1,0 +1,9 @@
+{
+  "name": "ripple-effect",
+  "version": "0.1",
+  "description": "Attempt to transpose material ui ripple into less",
+  "main": "index.js",
+  "repository": "git@github.com:TheBryceIsRight/ripple-effect.git",
+  "author": "Bryce Watson <brycewatson315@gmail.com>",
+  "license": "MIT"
+}
